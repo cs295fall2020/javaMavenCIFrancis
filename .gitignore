@@ -1,0 +1,6 @@
+#Intellij
+.idea/
+javaMavenCIFrancis.iml
+
+#Compiler
+target/
